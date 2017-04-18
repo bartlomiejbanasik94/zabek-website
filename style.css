@@ -1,0 +1,46 @@
+.navbar-brand img {
+  position: relative;
+  top: -15px;
+  width: 50px;
+  height: 50px; }
+
+[class*="example"] {
+  height: 55vh; }
+
+.example-1 {
+  background: url("http://i65.tinypic.com/2yjvwjn.jpg");
+  background-size: cover; }
+
+.example-2 {
+  background: url("http://i64.tinypic.com/jfzxqx.jpg");
+  background-size: cover; }
+
+.example-3 {
+  background: url("http://i68.tinypic.com/33tnvgm.jpg");
+  background-size: cover; }
+
+.example-4 {
+  background: url("http://i67.tinypic.com/k4tc9g.jpg");
+  background-size: cover; }
+
+.staff {
+  margin-bottom: 20px; }
+  .staff h2 {
+    text-align: center;
+    margin-top: 20px;
+    margin-bottom: 20px; }
+  .staff .container {
+    display: flex;
+    justify-content: center;
+    align-items: center; }
+    .staff .container h3, .staff .container h4 {
+      text-align: center; }
+
+.panel-body img {
+  width: 25%;
+  float: left;
+  padding: 5px;
+  margin-right: 7px; }
+
+
+/*# sourceMappingURL=style.css.map */
